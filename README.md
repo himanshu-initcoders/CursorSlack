@@ -1,3 +1,3 @@
 # CursorSlack
 
-**Last Updated:** December 27, 2024 at 10:45 AM UTC
+**Last Updated:** July 03, 2025 at 12:29 PM UTC
