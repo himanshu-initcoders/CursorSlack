@@ -24,7 +24,7 @@ export default function Home() {
           <div className="flex justify-between h-16">
             <div className="flex items-center">
               <div className="flex-shrink-0 flex items-center">
-                <h1 className="text-2xl font-bold text-indigo-600">Calio</h1>
+                <h1 className="text-2xl font-bold text-indigo-600">Calio - Meeting and Calendar Scheduling</h1>
               </div>
             </div>
             <nav className="hidden md:flex items-center space-x-8">
