@@ -66,7 +66,7 @@ export default function Home() {
             </div>
             <div className="lg:ml-auto">
               <div className="relative rounded-xl overflow-hidden shadow-2xl border border-gray-100 bg-white">
-                <div className="w-full h-80">
+                <div className="w-full h-[500px]">
                   <img 
                     src="https://assets-v2.lottiefiles.com/a/c397f988-1167-11ee-bf88-2fc3b5e17664/lzcbqgKOMS.gif" 
                     alt="Scheduling Animation" 
